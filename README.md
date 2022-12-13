@@ -1,5 +1,5 @@
 # google-app-prediction
-to depict best app in play store
+To depict best app in play store
 Objective: Make a model to predict the app rating, with other information about the app
 provided.
 Problem Statement:
